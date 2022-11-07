@@ -1,8 +1,8 @@
 Locales ['de'] = {
-  ["license_shop_title"] = "License Shop",
-  ["weapon_shop_menu_title"] = "Weapon Shop",
-  ["weapon_shop_menu_description"] = "Buy Weapons",
-  ["menu_cancel"] = "Cancel",
+  ["license_shop_title"] = "Lizenz-Shop",
+  ["weapon_shop_menu_title"] = "Waffenladen",
+  ["weapon_shop_menu_description"] = "Waffe kaufen",
+  ["menu_cancel"] = "Abbrechen",
   ['buy_license'] = 'Waffenlizenz kaufen?',
   ['yes'] = '%s',
   ['no'] = 'Nein',
